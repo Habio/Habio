@@ -7,9 +7,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at the University of Tasmania (UTAS)
 - 🌱 I am currently developing my skills in stochastic modelling and artificial intelligence.
+- 👯 I’m actively seeking academic positions, including lecturer and postdoctoral roles.
 
+  
 <!--
-- 👯 I’m looking to collaborate on m
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
